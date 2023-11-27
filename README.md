@@ -2,14 +2,13 @@
 The primary objective of this project is to leverage supervised learning techniques to predict students' final grades in an online machine learning course. 
 The dataset includes comprehensive information such as exam scores, quiz results, peer reviews, and course diaries from 107 students enrolled in the course. The ultimate goal is to assist instructors in identifying struggling students early on and providing them with the necessary support to enhance their learning outcomes.
 
-**
-Features**
+**Features**
 
 Supervised Learning: Utilizes the power of machine learning to predict student performance.
 Data Analysis: Examines grades, participation, and other course activities as key indicators of success.
 Model Selection: Implements Random Forest Classifier and Gaussian Naïve Bayes models from sci-kit-learn for prediction.
-**
-Tools Used**
+
+**Tools Used**
 
 Python
 Scikit-learn
